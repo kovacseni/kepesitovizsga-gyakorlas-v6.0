@@ -57,6 +57,9 @@ XAMP
 AMPL
 MPLE
 ```
-A feladat az, hogy a FineLongWord osztályban egy tömbben add vissza a szó betűit a megfelelő sorrendben.
+A feladat az, hogy a FineLongWord osztályban egy tömbben add vissza a szó betűit a megfelelő sorrendben, tehát így:
+```
+[E, X, A, M, P, L, E]
+```
 Mivel a Java nyelv beépített osztálykönyvtára erre rendkívül tág lehetőségeket biztosít, ezért kapásból három
 különböző, számodra már régóta ismerős szép hosszú szóval is tesztelheted a metódusodat. :)
